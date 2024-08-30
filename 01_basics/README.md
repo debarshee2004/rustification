@@ -6,6 +6,7 @@ rustc program.rc
 ```
 
 ```shell
+# Using cargo for rust programing
 cargo new program_name
 cd program_name
 cargo build
